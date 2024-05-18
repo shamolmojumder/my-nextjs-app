@@ -35,4 +35,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-# 8:10"# my-nextjs-app" 
+# 73-5 Key Features Of Next.Js With File Based Routing System
